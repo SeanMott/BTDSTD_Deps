@@ -1,0 +1,14 @@
+
+/fastgltf
+/glfw/bin-int
+/glfw/examples
+/glfw/tests
+/glm/test
+/redistributable_bin
+/Steam-public
+/tinygltf
+/yaml-cpp/test
+*.user
+*.filters
+*.vcxproj
+/glfw/bin
